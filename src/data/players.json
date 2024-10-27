@@ -1,0 +1,100 @@
+[
+    {
+      "id": 1,
+      "name": "Shakib Al Hasan",
+      "country": "Bangladesh",
+      "image": "../assets/image/img-1.jpg/300x200",
+      "role": "All-Rounder",
+      "batting": "Left-handed",
+      "bowling": "Left-arm spin",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "name": "Tamim Iqbal",
+      "country": "Bangladesh",
+      "image": "../assets/image/img-2.jpg",
+      "role": "Batsman",
+      "batting": "Left-handed",
+      "bowling": "-",
+      "price": 90
+    },
+    {
+      "id": 3,
+      "name": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "image": "../assets/image/img-3.jpg",
+      "role": "Wicket-Keeper",
+      "batting": "Right-handed",
+      "bowling": "-",
+      "price": 85
+    },
+    
+        {
+          "id": 4,
+          "name": "Steve Smith",
+          "country": "Australia",
+          "image": "../assets/image/img-4.jpg",
+          "role": "Batsman",
+          "batting": "Right-handed",
+          "bowling": "Right-arm leg-spin",
+          "price": 100
+        },
+        {
+          "id": 5,
+          "name": "Steve Smith",
+          "country": "Australia",
+          "image": "../assets/image/img-5.jpg",
+          "role": "Batsman",
+          "batting": "Left-handed",
+          "bowling": "-",
+          "price": 95
+        },
+        {
+          "id": 6,
+          "name": "Pat Cummins",
+          "country": "Australia",
+          "image": "../assets/image/img-6.jpg",
+          "role": "Bowler",
+          "batting": "Right-handed",
+          "bowling": "Right-arm fast",
+          "price": 105
+        },
+        
+            {
+              "id":7,
+              "name": "Joe Root",
+              "country": "England",
+              "image": "../assets/image/img-7.jpg",
+              "role": "Batsman",
+              "batting": "Right-handed",
+              "bowling": "Right-arm off-spin",
+              "price": 95
+            },
+            {
+              "id": 8,
+              "name": "Ben Stokes",
+              "country": "England",
+              "image": "../assets/image/img-8.jpg",
+              "role": "All-Rounder",
+              "batting": "Left-handed",
+              "bowling": "Right-arm fast-medium",
+              "price": 110
+            },
+            {
+              "id": 9,
+              "name": "Jofra Archer",
+              "country": "England",
+              "image": "../assets/image/img-9.jpg",
+              "role": "Bowler",
+              "batting": "Right-handed",
+              "bowling": "Right-arm fast",
+              "price": 100
+            }
+          
+          
+
+      ]
+      
+  
+  
